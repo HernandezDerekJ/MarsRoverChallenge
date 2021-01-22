@@ -31,6 +31,8 @@ Example Output:
 1 3 N
 5 1 E
 
+
+
 Requirements and Considerations
 ● Complete the challenge in the language of your choice.
 ● Please submit your application to us via github or bitbucket repository
