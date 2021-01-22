@@ -21,26 +21,46 @@ corresponding to the x and y coordinates and the rover's orientation.
 Each rover will be finished sequentially, which means that the second rover won't start
 to move until the first one has finished moving.
 The output for each rover should be its final coordinates and heading.
+
 Example Input:
+
 5 5
+
 1 2 N
+
 LMLMLMLMM
+
 3 3 E
+
 MMRMMRMRRM
+
 Example Output:
+
 1 3 N
+
 5 1 E
 
 
 
 Requirements and Considerations
+
 ● Complete the challenge in the language of your choice.
+
 ● Please submit your application to us via github or bitbucket repository
+
 ● Requires input from the user in the form of an uploaded .txt file
+
 ● Prints output back to the user interface
+
 ● Must include a "reasonable" amount of test coverage
+
 Bonus/optional improvements:
+
 ● Use functional programming principles
+
 ● Utilize an API for communicating with your data layer
+
 ● Showcase your design and usability abilities
+
 ● Use solid git/commit practices
+
